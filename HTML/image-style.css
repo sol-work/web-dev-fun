@@ -1,0 +1,13 @@
+.card{
+    margin: 100px;
+    justify-content: center;
+}
+
+body {
+    background-color: silver;
+    /* opacity: 0.3; */
+}
+
+.navbar{
+    opacity: 0.95;
+}
