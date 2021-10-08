@@ -5,10 +5,11 @@
 }
 
 body {
-    background-color:whitesmoke;
+    background-color:white;
     /* opacity: 0.3; */
 }
 
 .navbar{
     opacity: 0.95;
 }
+
